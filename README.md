@@ -1,0 +1,2 @@
+# GitEgitimi
+Geçici Dosya
